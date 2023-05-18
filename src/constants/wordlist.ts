@@ -43,4 +43,12 @@ export const WORDS = [
   'qualite',
   'leadtime',
   'leader',
+  'devaste',
+  'standard',
+  'agile',
+  'notion',
+  'github',
+  'gitlab',
+  'healthcare',
+  'norme',
 ]
