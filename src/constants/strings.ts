@@ -1,7 +1,8 @@
 export const GAME_TITLE = process.env.REACT_APP_GAME_NAME!
 
 export const WIN_MESSAGES = ['Bravo', 'Félicitations', 'Nice']
-export const GAME_COPIED_MESSAGE = 'Tu peux flex avec les autres Hoklaniens'
+export const GAME_COPIED_MESSAGE =
+  'Colle le message dans ton presse papier sur slack!'
 export const ABOUT_GAME_MESSAGE = 'A propos de ce jeu'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'pas assez de lettre'
 export const WORD_NOT_FOUND_MESSAGE = 'ce mot existe ?'
